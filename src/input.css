@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  /* color////////////// */
+  --color-priMary: #fae3b6;
+  --color-seCondary: #000000;
+  --color-tHard: #fdbb57;
+  --color-hOVer: #43ba8b;
+  --color-ff: #ffff;
+  /* color//////////////// */
+  /* border redus////////////////////// */
+  --radius-5xl: 1rem;
+  /* border redus////////////////////// */
+  --spacing-headerP: 59px;
+  --spacing-heaDerContainer: 1320px;
+  /* font/////////////////////// */
+  --font-Poppins: "Poppins", sans-serif;
+  --font-FRL: "Frank Ruhl Libre", serif;
+  /* font/////////////////////// */
+  --ease-hoVer: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+}
